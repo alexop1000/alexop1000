@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/AlexOp" alt="Alex Op's GitHub Profile">GitHub Profile</a>
+  <a href="https://github.com/alexop1000" alt="Alex Op's GitHub Profile">GitHub Profile</a>
 </div>
 
 <div align="center">
