@@ -16,7 +16,7 @@
 
 <h2>About Me</h2>
 
-<p>My name is Alex. I am 17 years old. I'm currently living in Denmark. I speak English and Danish.</p>
+<p>My name is Alex. I am 18 years old. I'm currently living in Denmark. I speak English and Danish.</p>
 
 <h2>My Projects</h2>
 
