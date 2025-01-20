@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm a passionate full stack developer specializing in crea
 ### 🛠️ My Toolbox
 ```javascript
 const mySkills = {
-  languages: ['TypeScript', 'JavaScript', 'Luau', 'HTML', 'CSS', 'SCSS'],
+  languages: ['TypeScript', 'JavaScript', 'Luau', 'C#', 'Java', 'Go', 'Python', 'HTML', 'CSS', 'SCSS'],
   frameworks: ['React', 'SolidJS', 'NextJS', 'Electron', 'Express'],
   tools: ['Git', 'GitHub', 'VSCode', 'Roblox Studio'],
-  currentFocus: 'Building dynamic and interactive extensions and games'
+  currentFocus: 'Building dynamic and interactive programs and games'
 };
 ```
 
