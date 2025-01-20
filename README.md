@@ -5,7 +5,7 @@
 Welcome to my GitHub! I'm a passionate full stack developer specializing in creating immersive experiences on Roblox and building robust web applications.
 
 ### 🚀 About Me
-- 🌱 I’m currently 19 and diving deep into the world of web and game development.
+- 🌱 I’m currently 20 and diving deep into the world of web and game development.
 - 👾 Creator of the popular "RoGold" Roblox extension and several engaging Roblox games.
 - 💻 Proficient in TypeScript, JavaScript, CSS, SCSS, HTML, React, and more.
 - 📚 Constantly learning and evolving my skills in the ever-changing landscape of technology.
